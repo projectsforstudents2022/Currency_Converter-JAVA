@@ -5,7 +5,7 @@
 1) Download this repository and extract the file
 2) Download NetBeans IDE
 
-https://netbeans.apache.org/download/index.html
+      https://netbeans.apache.org/download/index.html
 
 3) Next, open NetBeans IDE and click open project and choose your download source code
 
